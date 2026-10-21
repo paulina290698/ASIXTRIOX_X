@@ -14,7 +14,7 @@ Som un equip treballant pel projecte de Sostenibilitat Aplicada al Sistema Produ
 *   **Entorn:** Hem escollit el nostre propi institut perquè considerem que, tot i tenir unes bones instal·lacions generals i una gran varietat de cicles formatius, hi ha algunes branques de Formació Professional que no compten amb els recursos suficients per cobrir les necessitats reals de l'alumnat.
 *   **Anàlisi:** Existeix una clara desigualtat en el repartiment de recursos. Hi ha cicles de caire molt tecnològic on es dona per fet que l'estudiant té un ordinador portàtil propi, quan la realitat és que no tothom es pot permetre aquesta despesa a casa. A més, els ordinadors fixos de les aules a vegades són insuficients per cobrir totes les places de matriculats. En cicles com els d'informàtica o similars, no tenir accés individual a un equip dificulta greument l'aprenentatge pràctic a classe, que és la base d'aquests estudis.
 
-## Taula
+## 2. Taula
 | Necesidad detectada | Tipo | Personas o colectivos afectados | Actividad económica relacionada | Evidencia |
 | :--- | :--- | :--- | :--- | :--- |
 | Garantizar un mínimo de medios tecnológicos para seguir las clases de informática (ordenadores, cables, componentes, etc.) | Económico | Alumnado con dificultades económicas para afrontar los gastos de material | Educación y tecnología / Servicios formativos | Estudio extraído de EsadeEcPol sobre el gasto de las familias en material escolar |
@@ -24,7 +24,7 @@ Som un equip treballant pel projecte de Sostenibilitat Aplicada al Sistema Produ
 | Reducción de la huella ecológica y del consumo energético derivado de la fabricación de nuevos componentes informáticos | Ambiental | Entorno natural, centro educativo y sector tecnológico | Industria tecnológica, fabricación de hardware y distribución | Green Computing: Qué es, ejemplos y objetivos - Innovación Digital 360 |
 
 --- 
-## Pregunets de reflexió
+## 3. Pregunets de reflexió
 ### 1. Què és el més urgent i per què?
 
 El més urgent és **trobar una solució immediata** perquè aquests alumnes puguin aconseguir un ordinador o treballar al centre des del primer dia.
@@ -77,7 +77,7 @@ Si no s'actua a temps, podrien empitjorar especialment *l'abandonament escolar i
 
 ---
 
-## Propostes de solució
+## 4. Propostes de solució
 
 Per resoldre aquesta situació a l'institut, es plantegen dues opcions:
 
@@ -86,7 +86,7 @@ Per resoldre aquesta situació a l'institut, es plantegen dues opcions:
 
 ---
 
-## 4. La conclusio final de l’equip
+## 5. La conclusio final de l’equip
 
 Després d'analitzar el nostre entorn hem arribat a la conclusió que estudiar això a l'**Institut Provençana** implica conviure amb una forta contradicció. D'una banda, tenim accés a uns estudis tècnics d'alt nivell i molt demandats pel mercat actual; de l'altra, ens trobem amb barreres materials i territorials importants en el nostre dia a dia.
 
