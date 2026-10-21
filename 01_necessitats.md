@@ -25,7 +25,7 @@ Som un equip treballant pel projecte de Sostenibilitat Aplicada al Sistema Produ
 
 El més urgent és **trobar una solució immediata** perquè aquests alumnes puguin aconseguir un ordinador o treballar al centre des del primer dia.
 
-*   **Per què?** En un Grau Superior, l'ordinador és l'eina de treball principal (per programar, dissenyar, fer pressupostos, redactar informes o lliurar pràctiques). Si un alumne comença el curs i no té ordinador a casa ni a l'aula, **no pot seguir les classes, es frustra i acaba abandonant els estudis**. És una urgència màxima perquè està en joc que aquesta persona pugui acabar la seva carrera i trobar una feina.
+En un Grau Superior, l'ordinador és l'eina de treball principal (per programar, dissenyar, fer pressupostos, redactar informes o lliurar pràctiques). Si un alumne comença el curs i no té ordinador a casa ni a l'aula, **no pot seguir les classes, es frustra i acaba abandonant els estudis**. És una urgència màxima perquè està en joc que aquesta persona pugui acabar la seva carrera i trobar una feina.
 
 ---
 
@@ -35,6 +35,18 @@ Tot i que potser no tots els alumnes tenen aquest problema econòmic a casa, aqu
 *   **Als afectats directes:** Els alumnes que no tenen recursos pateixen l'estrès, l'ansietat i la vergonya de no poder portar el material que demana el professorat.
 *   **Al grup classe i al professorat:** Quan una part de la classe no té ordinador, el ritme de l'aula s'alenteix. Els professors han de canviar la manera de fer classe, fer fer els treballs en parelles de manera obligatòria o buscar alternatives d'última hora, fet que afecta el ritme d'aprenentatge de **tots els estudiants de l'aula**.
 *   **A les instal·lacions del centre:** S'omplen les biblioteques o les aules d'informàtica a les hores lliures, ja que molts alumnes s'han de quedar a l'institut fins tard perquè a casa no tenen la tecnologia necessària per treballar.
+*   ### 3. Quines tenen una relació més directa amb una activitat econòmica?
+
+Les que tenen una relació més directa amb una activitat econòmica són *la garantia de mitjans tecnològics* (vinculada als serveis formatius, la tecnologia i el mercat de material escolar) i *el foment de la cultura de la reparació i la reutilització* (vinculada al comerç electrònic, la gestió de residus i la reparació d'equips).
+
+Totes dues tenen un impacte directe en el sector econòmic perquè impliquen una despesa per a les famílies en material educatiu, la compra de components i la creació de un model de negoci al voltant de l'aprofitament i l'economia circular dels dispositius.
+
+### 4. Quines podrien empitjorar en el futur si no s’hi actua?
+
+Si no s'actua a temps, podrien empitjorar especialment *l'abandonament escolar i la vulnerabilitat educativa, així com **l'acumulació de brossa electrònica i la petjada ecològica*:
+
+* *L'abandonament escolar i la bretxa digital:* Si no es garanteixen mitjans tecnològics a l'alumnat amb dificultats, cada vegada hi haurà més estudiants en risc d'exclusió educativa o amb pitjors resultats per no poder seguir el ritme de les classes d'informàtica.
+* *La sostenibilitat i els residus (E-Waste):* Si no es fomenta la cultura de la reparació i la reutilització, la generació de xatarra electrònica i el consum energètic associat a la fabricació de nous components continuaran augmentant de manera descontrolada, empitjorant greument el medi ambient i la petjada ecològica.
 
 ---
 
