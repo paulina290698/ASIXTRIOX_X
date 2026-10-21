@@ -8,19 +8,12 @@
 ## Descripció
 Som un equip treballant pel projecte de Sostenibilitat Aplicada al Sistema Productiu. Al llarg del nostre projecte identificarem un repte ambiental o social del nostre entorn i proposarem una solució tecnològica sostenible.
 
-### 1. Exploreu el vostre entorn: Anàlisi de l'Institut Provençana i Sant Josep
+### 1. Exploreu el vostre entorn: Anàlisi de l'Institut Provençana 
 
 #### • El centre educatiu: Institut Provençana
 *   **Entorn:** Hem escollit el nostre propi institut perquè considerem que, tot i tenir unes bones instal·lacions generals i una gran varietat de cicles formatius, hi ha algunes branques de Formació Professional que no compten amb els recursos suficients per cobrir les necessitats reals de l'alumnat.
 *   **Anàlisi:** Existeix una clara desigualtat en el repartiment de recursos. Hi ha cicles de caire molt tecnològic on es dona per fet que l'estudiant té un ordinador portàtil propi, quan la realitat és que no tothom es pot permetre aquesta despesa a casa. A més, els ordinadors fixos de les aules a vegades són insuficients per cobrir totes les places de matriculats. En cicles com els d'informàtica o similars, no tenir accés individual a un equip dificulta greument l'aprenentatge pràctic a classe, que és la base d'aquests estudis.
-*   
-#### • El barri: Sant Josep (L'Hospitalet)
-*   **Entorn:** És un barri tradicionalment obrer, petit i amb un teixit principalment residencial. Com a conseqüència d'aquesta estructura, als seus carrers no hi ha grans oficines, empreses tecnològiques ni tallers moderns que estiguin directament integrats amb l'ecosistema del barri.
-*   **Anàlisi:** La mancança d'empreses del sector digital o industrial a la zona limita dràsticament les oportunitats dels estudiants per trobar pràctiques (FCT) o feina tècnica a prop de casa. Hi ha una forta desconnexió entre la vida veïnal de Sant Josep i l'alta especialització de la FP que ofereix el Provençana. Això ens obliga de manera sistemàtica a haver de marxar del barri i fer desplaçaments més llargs per poder estudiar o treballar de la nostra professió.
-
-#### • Un servei o sector productiu proper: El Comerç
-*   **Entorn:** L'economia del nostre entorn més proper es basa gairebé al 100% en el comerç, on destaca el centre comercial de la zona (per l'oferta de serveis i grans superfícies) i les petites botigues de barri. Tots aquests negocis busquen de forma majoritària perfils enfocats a l'atenció al client, la restauració o la gestió de caixes.
-*   **Anàlisi:** Hi ha una distància total entre aquest model comercial centrat en el consum o el lleure diari i els estudis tècnics que s'imparteixen al Provençana. Els comerços locals de Sant Josep no demanen la preparació tècnica que nosaltres estem adquirint. Com a resultat, la inserció laboral de proximitat és gairebé impossible, cosa que agreuja el problema d'haver de buscar sortides professionals i pràctiques fora de l'entorn immediat de l'institut.
+  
 ### 1. Què és el més urgent i per què?
 
 El més urgent és **trobar una solució immediata** perquè aquests alumnes puguin aconseguir un ordinador o treballar al centre des del primer dia.
@@ -35,11 +28,17 @@ Tot i que potser no tots els alumnes tenen aquest problema econòmic a casa, aqu
 *   **Als afectats directes:** Els alumnes que no tenen recursos pateixen l'estrès, l'ansietat i la vergonya de no poder portar el material que demana el professorat.
 *   **Al grup classe i al professorat:** Quan una part de la classe no té ordinador, el ritme de l'aula s'alenteix. Els professors han de canviar la manera de fer classe, fer fer els treballs en parelles de manera obligatòria o buscar alternatives d'última hora, fet que afecta el ritme d'aprenentatge de **tots els estudiants de l'aula**.
 *   **A les instal·lacions del centre:** S'omplen les biblioteques o les aules d'informàtica a les hores lliures, ja que molts alumnes s'han de quedar a l'institut fins tard perquè a casa no tenen la tecnologia necessària per treballar.
+
+  ---
+
+  
 *   ### 3. Quines tenen una relació més directa amb una activitat econòmica?
 
 Les que tenen una relació més directa amb una activitat econòmica són *la garantia de mitjans tecnològics* (vinculada als serveis formatius, la tecnologia i el mercat de material escolar) i *el foment de la cultura de la reparació i la reutilització* (vinculada al comerç electrònic, la gestió de residus i la reparació d'equips).
 
 Totes dues tenen un impacte directe en el sector econòmic perquè impliquen una despesa per a les famílies en material educatiu, la compra de components i la creació de un model de negoci al voltant de l'aprofitament i l'economia circular dels dispositius.
+
+---
 
 ### 4. Quines podrien empitjorar en el futur si no s’hi actua?
 
@@ -47,6 +46,20 @@ Si no s'actua a temps, podrien empitjorar especialment *l'abandonament escolar i
 
 * *L'abandonament escolar i la bretxa digital:* Si no es garanteixen mitjans tecnològics a l'alumnat amb dificultats, cada vegada hi haurà més estudiants en risc d'exclusió educativa o amb pitjors resultats per no poder seguir el ritme de les classes d'informàtica.
 * *La sostenibilitat i els residus (E-Waste):* Si no es fomenta la cultura de la reparació i la reutilització, la generació de xatarra electrònica i el consum energètic associat a la fabricació de nous components continuaran augmentant de manera descontrolada, empitjorant greument el medi ambient i la petjada ecològica.
+
+---
+
+### 5. Quines dues necessitats podrien convertir-se en el nostre repte principal?
+**Garantir un mínim de mitjans tecnològics per seguir les classes:** Ens permet lluitar contra la bretxa digital a les aules i donar suport directe als companys amb menys recursos.
+**Fomentar la cultura de la reparaió i la reutilització:** És una opció sostenible i pràctica que ens posa a prova com a futurs informàtics, evitant que molta tecnologia acabi com a residus electrònics. 
+
+---
+
+### 6. Quina informació ens falta per poder escollir?
+**Dades reals de la demanda:** Quants alumnes exactament necessiten ordinadors o material al nostre centre?
+**Disponibilitat d'equips:** Quantes empreses, famílies o el propi centre ens poden donar dispositius vells?
+**Viabilitat tècnica i espai:** Tenim un taller, eines i el temps o coneixements suficients per reparar-los de manera segura?
+**Gestió i privacitat:** Quin protocol farem servir per esborrar les dades dels equips de forma segura?
 
 ---
 
