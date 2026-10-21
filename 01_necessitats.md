@@ -50,16 +50,20 @@ Si no s'actua a temps, podrien empitjorar especialment *l'abandonament escolar i
 ---
 
 ### 5. Quines dues necessitats podrien convertir-se en el nostre repte principal?
-**Garantir un mínim de mitjans tecnològics per seguir les classes:** Ens permet lluitar contra la bretxa digital a les aules i donar suport directe als companys amb menys recursos.
-**Fomentar la cultura de la reparaió i la reutilització:** És una opció sostenible i pràctica que ens posa a prova com a futurs informàtics, evitant que molta tecnologia acabi com a residus electrònics. 
+* **Garantir un mínim de mitjans tecnològics per seguir les classes:** Ens permet lluitar contra la bretxa digital a les aules i donar suport directe als companys amb menys recursos.
+
+* **Fomentar la cultura de la reparaió i la reutilització:** És una opció sostenible i pràctica que ens posa a prova com a futurs informàtics, evitant que molta tecnologia acabi com a residus electrònics. 
 
 ---
 
 ### 6. Quina informació ens falta per poder escollir?
-**Dades reals de la demanda:** Quants alumnes exactament necessiten ordinadors o material al nostre centre?
-**Disponibilitat d'equips:** Quantes empreses, famílies o el propi centre ens poden donar dispositius vells?
-**Viabilitat tècnica i espai:** Tenim un taller, eines i el temps o coneixements suficients per reparar-los de manera segura?
-**Gestió i privacitat:** Quin protocol farem servir per esborrar les dades dels equips de forma segura?
+**1. Dades reals de la demanda:** Quants alumnes exactament necessiten ordinadors o material al nostre centre?
+
+**2. Disponibilitat d'equips:** Quantes empreses, famílies o el propi centre ens poden donar dispositius vells?
+
+**3. Viabilitat tècnica i espai:** Tenim un taller, eines i el temps o coneixements suficients per reparar-los de manera segura?
+
+**4. Gestió i privacitat:** Quin protocol farem servir per esborrar les dades dels equips de forma segura?
 
 ---
 
@@ -70,8 +74,7 @@ Per resoldre aquesta situació a l'institut, es plantegen dues opcions:
 1.  **Servei de préstec intern:** Demanar a l'institut que crei un servei de préstec de portàtils per endur-se a casa (com es fa amb els llibres de la biblioteca).
 2.  **Campanya d'economia circular:** Organitzar una campanya de donació i reciclatge d'ordinadors vells d'empreses del barri per posar-los a punt i donar-los als alumnes que els necessitin.
 
-
-
+---
 
 | Necesidad detectada | Tipo | Personas o colectivos afectados | Actividad económica relacionada | Evidencia |
 | :--- | :--- | :--- | :--- | :--- |
@@ -80,6 +83,9 @@ Per resoldre aquesta situació a l'institut, es plantegen dues opcions:
 | Reducción de la chatarra electrónica y aprovechamiento del valor residual de los dispositivos (E-Waste) | Ambiental | Comunidad educativa y sociedad en general | Gestión de residuos y reparación de equipos informáticos | Información institucional sobre la reducción de residuos electrónicos - Universidad de Sevilla|
 | Fomentar la Cultura de la Reparación y la reutilización de dispositivos (cursos superiores y nuevos alumnos) | Social y Ambiental | Estudiantes de la informática | Comercio electrónico y reutilización de dispositivos| Economía circular: Nueva vida para tus dispositivos - ICP Tech Solutions |
 | Reducción de la huella ecológica y del consumo energético derivado de la fabricación de nuevos componentes informáticos | Ambiental | Entorno natural, centro educativo y sector tecnológico | Industria tecnológica, fabricación de hardware y distribución | Green Computing: Qué es, ejemplos y objetivos - Innovación Digital 360 |
+
+---
+
 ### 4. La conclusio final de l’equip
 
 Després d'analitzar el nostre entorn hem arribat a la conclusió que estudiar això a l'**Institut Provençana** implica conviure amb una forta contradicció. D'una banda, tenim accés a uns estudis tècnics d'alt nivell i molt demandats pel mercat actual; de l'altra, ens trobem amb barreres materials i territorials importants en el nostre dia a dia.
@@ -90,6 +96,7 @@ A més, la nostra anàlisi ens ha fet veure clarament l'**aïllament que hi ha e
 
 Com a equip, aquesta pràctica ens ha servit per entendre que millorar el nostre centre no només consisteix a demanar més material a les aules, sinó a **crear vincles amb l'exterior i col·laborar entre nosaltres** per trobar solucions de suport mutu o projectes de reciclatge tecnològic (economia circular) que beneficiïn tota la comunitat educativa.
 
+---
 
 ## Fuentes
 
