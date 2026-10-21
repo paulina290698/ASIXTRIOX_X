@@ -40,8 +40,8 @@ Tot i que la falta de diners per comprar un portàtil només la pateixen a casa 
 * **Els alumnes que no tenen ordinador per estudiar bé:** Pateixen molts nervis, estrès i la vergonya de no poder portar a classe les eines que demanen els professors.
 * **Els companys i els professors de l'aula:** Quan una part de la classe no pot treballar, el ritme de la lliçó s'alenteix per a tothom. Els professors han de canviar els plans a última hora o obligar a fer els treballs en parelles per força, cosa que pot carregar de feina els alumnes que sí que tenen ordinador i fa que tota la classe aprengui més a poc a poc.
 * **Els espais de l'institut:** La biblioteca i les aules d'informàtica s'omplen de gom a gom a les tardes i a les hores lliures, ja que molts estudiants s'han de quedar a l'institut de manera obligatòria fins molt tard perquè a casa seva no tenen Internet o un equip per poder fer els deures.
-* Els veïns del barri i la gent en general:** L'hàbit de llençar aparells electrònics i fabricar-ne contínuament de nous fa que es gasti massa energia a tot el món. Si el centre o les botigues de la zona acumulen tota aquesta ferralla informàtica sinó hi ha un control, es poden alliberar components dolents que contaminen l'aire o el terra de la ciutat, afectant a la llarga la salut i el benestar de tots els veïns que vivim a prop.
-  ---
+  
+Els veïns del barri i la gent en general:L'hàbit de llençar aparells electrònics i fabricar-ne contínuament de nous fa que es gasti massa energia a tot el món. Si el centre o les botigues de la zona acumulen tota aquesta ferralla informàtica sinó hi ha un control, es poden alliberar components dolents que contaminen l'aire o el terra de la ciutat, afectant a la llarga la salut i el benestar de tots els veïns que vivim a prop.
 
 ### 3. Quines tenen una relació més directa amb una activitat econòmica?
 
