@@ -27,7 +27,7 @@ Som un equip treballant pel projecte de Sostenibilitat Aplicada al Sistema Produ
 ## 3. Pregunets de reflexió
 ### 1. Quines necessitats considereu més urgents? Per què?
 
-El més urgent és **trobar una manera ràpida d'ajudar els alumnes que no tenen recursos perquè puguin tenir un ordinador i estudiar bé des del primer dia i, al mateix temps, aprendre a arreglar els aparells vells per no llençar tanta brossa electrònica ni fer malbé el medi ambient**.
+El més urgent és trobar una manera ràpida d'ajudar els alumnes que no tenen recursos perquè puguin tenir un ordinador i estudiar bé des del primer dia i, al mateix temps, aprendre a arreglar els aparells vells per no llençar tanta brossa electrònica ni fer malbé el medi ambient.
 
 Aquestes dues coses van agafades de la mà perquè, en un Grau Superior com el nostre, l'ordinador és l'eina que es fa servir per a tot: per programar, fer dissenys, redactar informes o lliurar les pràctiques a temps. Si un estudiant comença les classes i no té un ordinador a casa ni a l'institut, no pot seguir el fil de les explicacions, es capfica, ho passa malament i acaba deixant els estudis, perdent l'opció de trobar una bona feina per un problema de diners. Però la solució no pot ser comprar sempre portàtils nous de trinca que gasten molta energia i contaminen. El més lògic i urgent és recollir, arreglar i tornar a fer servir els ordinadors que la gent o les empreses ja no volen: així ajudem els companys que ho necessiten i evitem omplir els magatzems de ferralla tecnològica.
 
@@ -35,12 +35,12 @@ Aquestes dues coses van agafades de la mà perquè, en un Grau Superior com el n
 
 ### 2. Quines afecten un nombre més gran de persones?
 
-Tot i que la falta de diners per comprar un portàtil només la pateixen a casa alguns alumnes, aquesta situació acaba **afectant tothom a l'institut i al barri com una cadena, tant per les traves a l'estudi com per la brutícia que genera la tecnologia**:
+Tot i que la falta de diners per comprar un portàtil només la pateixen a casa alguns alumnes, aquesta situació acaba afectant tothom a l'institut i al barri com una cadena, tant per les traves a l'estudi com per la brutícia que genera la tecnologia:
 
 * **Els alumnes que no tenen ordinador per estudiar bé:** Pateixen molts nervis, estrès i la vergonya de no poder portar a classe les eines que demanen els professors.
 * **Els companys i els professors de l'aula:** Quan una part de la classe no pot treballar, el ritme de la lliçó s'alenteix per a tothom. Els professors han de canviar els plans a última hora o obligar a fer els treballs en parelles per força, cosa que pot carregar de feina els alumnes que sí que tenen ordinador i fa que tota la classe aprengui més a poc a poc.
 * **Els espais de l'institut:** La biblioteca i les aules d'informàtica s'omplen de gom a gom a les tardes i a les hores lliures, ja que molts estudiants s'han de quedar a l'institut de manera obligatòria fins molt tard perquè a casa seva no tenen Internet o un equip per poder fer els deures.
-* **Els veïns del barri i la gent en general:** L'hàbit de llençar aparells electrònics i fabricar-ne contínuament de nous fa que es gasti massa energia a tot el món. Si el centre o les botigues de la zona acumulen tota aquesta ferralla informàtica sinó hi ha un control, es poden alliberar components dolents que contaminen l'aire o el terra de la ciutat, afectant a la llarga la salut i el benestar de tots els veïns que vivim a prop.
+* Els veïns del barri i la gent en general:** L'hàbit de llençar aparells electrònics i fabricar-ne contínuament de nous fa que es gasti massa energia a tot el món. Si el centre o les botigues de la zona acumulen tota aquesta ferralla informàtica sinó hi ha un control, es poden alliberar components dolents que contaminen l'aire o el terra de la ciutat, afectant a la llarga la salut i el benestar de tots els veïns que vivim a prop.
   ---
 
 ### 3. Quines tenen una relació més directa amb una activitat econòmica?
