@@ -8,12 +8,23 @@
 ## Descripció
 Som un equip treballant pel projecte de Sostenibilitat Aplicada al Sistema Productiu. Al llarg del nostre projecte identificarem un repte ambiental o social del nostre entorn i proposarem una solució tecnològica sostenible.
 
-### 1. Exploreu el vostre entorn: Anàlisi de l'Institut Provençana 
+## 1. L'entron analitzat: Institut Provençana 
 
 #### • El centre educatiu: Institut Provençana
 *   **Entorn:** Hem escollit el nostre propi institut perquè considerem que, tot i tenir unes bones instal·lacions generals i una gran varietat de cicles formatius, hi ha algunes branques de Formació Professional que no compten amb els recursos suficients per cobrir les necessitats reals de l'alumnat.
 *   **Anàlisi:** Existeix una clara desigualtat en el repartiment de recursos. Hi ha cicles de caire molt tecnològic on es dona per fet que l'estudiant té un ordinador portàtil propi, quan la realitat és que no tothom es pot permetre aquesta despesa a casa. A més, els ordinadors fixos de les aules a vegades són insuficients per cobrir totes les places de matriculats. En cicles com els d'informàtica o similars, no tenir accés individual a un equip dificulta greument l'aprenentatge pràctic a classe, que és la base d'aquests estudis.
-  
+
+## Taula
+| Necesidad detectada | Tipo | Personas o colectivos afectados | Actividad económica relacionada | Evidencia |
+| :--- | :--- | :--- | :--- | :--- |
+| Garantizar un mínimo de medios tecnológicos para seguir las clases de informática (ordenadores, cables, componentes, etc.) | Económico | Alumnado con dificultades económicas para afrontar los gastos de material | Educación y tecnología / Servicios formativos | Estudio extraído de EsadeEcPol sobre el gasto de las familias en material escolar |
+| Evitar el abandono escolar o las malas notas por no poder pagar el material necesario | Social | Estudiantes en riesgo de vulnerabilidad o exclusión educativa | Servicios sociales y educativos | Artículo de Alianza Solidaria sobre como la falta de herramientas tecnológicas puede afectar al abandono escolar |
+| Reducción de la chatarra electrónica y aprovechamiento del valor residual de los dispositivos (E-Waste) | Ambiental | Comunidad educativa y sociedad en general | Gestión de residuos y reparación de equipos informáticos | Información institucional sobre la reducción de residuos electrónicos - Universidad de Sevilla|
+| Fomentar la Cultura de la Reparación y la reutilización de dispositivos (cursos superiores y nuevos alumnos) | Social y Ambiental | Estudiantes de la informática | Comercio electrónico y reutilización de dispositivos| Economía circular: Nueva vida para tus dispositivos - ICP Tech Solutions |
+| Reducción de la huella ecológica y del consumo energético derivado de la fabricación de nuevos componentes informáticos | Ambiental | Entorno natural, centro educativo y sector tecnológico | Industria tecnológica, fabricación de hardware y distribución | Green Computing: Qué es, ejemplos y objetivos - Innovación Digital 360 |
+
+--- 
+## Pregunets de reflexió
 ### 1. Què és el més urgent i per què?
 
 El més urgent és **trobar una solució immediata** perquè aquests alumnes puguin aconseguir un ordinador o treballar al centre des del primer dia.
@@ -31,8 +42,7 @@ Tot i que potser no tots els alumnes tenen aquest problema econòmic a casa, aqu
 
   ---
 
-  
-*   ### 3. Quines tenen una relació més directa amb una activitat econòmica?
+### 3. Quines tenen una relació més directa amb una activitat econòmica?
 
 Les que tenen una relació més directa amb una activitat econòmica són *la garantia de mitjans tecnològics* (vinculada als serveis formatius, la tecnologia i el mercat de material escolar) i *el foment de la cultura de la reparació i la reutilització* (vinculada al comerç electrònic, la gestió de residus i la reparació d'equips).
 
@@ -67,7 +77,7 @@ Si no s'actua a temps, podrien empitjorar especialment *l'abandonament escolar i
 
 ---
 
-### Propostes de solució
+## Propostes de solució
 
 Per resoldre aquesta situació a l'institut, es plantegen dues opcions:
 
@@ -76,17 +86,7 @@ Per resoldre aquesta situació a l'institut, es plantegen dues opcions:
 
 ---
 
-| Necesidad detectada | Tipo | Personas o colectivos afectados | Actividad económica relacionada | Evidencia |
-| :--- | :--- | :--- | :--- | :--- |
-| Garantizar un mínimo de medios tecnológicos para seguir las clases de informática (ordenadores, cables, componentes, etc.) | Económico | Alumnado con dificultades económicas para afrontar los gastos de material | Educación y tecnología / Servicios formativos | Estudio extraído de EsadeEcPol sobre el gasto de las familias en material escolar |
-| Evitar el abandono escolar o las malas notas por no poder pagar el material necesario | Social | Estudiantes en riesgo de vulnerabilidad o exclusión educativa | Servicios sociales y educativos | Artículo de Alianza Solidaria sobre como la falta de herramientas tecnológicas puede afectar al abandono escolar |
-| Reducción de la chatarra electrónica y aprovechamiento del valor residual de los dispositivos (E-Waste) | Ambiental | Comunidad educativa y sociedad en general | Gestión de residuos y reparación de equipos informáticos | Información institucional sobre la reducción de residuos electrónicos - Universidad de Sevilla|
-| Fomentar la Cultura de la Reparación y la reutilización de dispositivos (cursos superiores y nuevos alumnos) | Social y Ambiental | Estudiantes de la informática | Comercio electrónico y reutilización de dispositivos| Economía circular: Nueva vida para tus dispositivos - ICP Tech Solutions |
-| Reducción de la huella ecológica y del consumo energético derivado de la fabricación de nuevos componentes informáticos | Ambiental | Entorno natural, centro educativo y sector tecnológico | Industria tecnológica, fabricación de hardware y distribución | Green Computing: Qué es, ejemplos y objetivos - Innovación Digital 360 |
-
----
-
-### 4. La conclusio final de l’equip
+## 4. La conclusio final de l’equip
 
 Després d'analitzar el nostre entorn hem arribat a la conclusió que estudiar això a l'**Institut Provençana** implica conviure amb una forta contradicció. D'una banda, tenim accés a uns estudis tècnics d'alt nivell i molt demandats pel mercat actual; de l'altra, ens trobem amb barreres materials i territorials importants en el nostre dia a dia.
 
@@ -98,7 +98,7 @@ Com a equip, aquesta pràctica ens ha servit per entendre que millorar el nostre
 
 ---
 
-## Fuentes
+## Fonts
 
 * [EsadeEcPol - Radiografía del gasto de las familias en material escolar y las becas que ayudan a compensarlo](https://www.esade.edu/ecpol/es/publicaciones/radiografia-del-gasto-de-las-familias-en-material-escolar-y-las-becas-que-ayudan-a-compensarlo/)[cite: 2]
 * [Alianza Solidaria - El abandono escolar podría ser una opción](https://alianzasolidaria.org/el-abandono-escolar-podria-ser-una-opcion/)[cite: 2]
