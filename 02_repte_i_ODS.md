@@ -40,45 +40,36 @@ Molts alumnes no tenen suficients recursos econòmics per a comprar un ordinador
 6. **Quina activitat econòmica o sector productiu hi està relacionat:**
    Està relacionat amb el sector de l'educació i també amb tot allò que té a veure amb arreglar ordinadors i reciclar la brossa electrònica.
    ## Part 2. Relació amb els ODS
-
-### ODS 4. Educació de qualitat
-Hem seleccionat aquest ODS perquè el nostre repte vol acabar amb les traves que tenen alguns companys per poder estudiar al mateix ritme que la resta. Si algú no té ordinador a casa o llibres, no pot tenir una educació de qualitat, i el nostre objectiu és que tothom a l'institut tingui les mateixes oportunitats per aprovar i aprendre.
-
-**Meta 4.5.** Per a l'any 2030, eliminar les desigualtats en l'educació i assegurar que les persones més vulnerables (com els alumnes amb problemes econòmics o discapacitats) puguin accedir a tots els nivells d'estudis.
-
-El projecte consistiria a fer una pàgina web o una aplicació de mòbil per a l'Institut Provenzana on l'institut pugui tenir un inventari digital de tot el material que té guardat (calculadores científiques, llibres de lectura, portàtils que l'escola ja no utilitza o que donen algunes empreses de L'Hospitalet). Els alumnes que ho necessitin podran demanar el préstec d'aquests materials de forma privada, fàcil i sense passar vergonya.
-
-La seva contribució es podria mesurar mitjançant el nombre de materials i ordinadors que aconseguim deixar als alumnes durant el curs o comprovant si baixa el nombre de deures que es queden sense lliurar per culpa de no tenir l'ordinador o el llibre a casa. D'aquesta manera, l'aplicació ajudaria a garantir la igualtat i a avançar cap a la meta 4.5.
+   ## Educació de qualitat
+* **Justificació de la selecció:** Hem triat aquest ODS perquè el nostre repte vol acabar amb les traves que tenen alguns companys per poder estudiar al mateix ritme que la resta. Si algú no té ordinador a casa o llibres, no pot tenir una educació de qualitat, i el nostre objectiu és que tothom a l'institut tingui les mateixes oportunitats per aprovar i aprendre.
+* **Número i descripció de la meta concreta:** **Meta 4.5.** Per a l'any 2030, eliminar les desigualtats en l'educació i assegurar que les persones més vulnerables (com els alumnes amb problemes econòmics o discapacitats) puguin accedir a tots els nivells d'estudis.
+* **Explicació de com el futur projecte podria contribuir-hi:** La idea és fer una pàgina web o una aplicació de mòbil per a l'Institut Provenzana. En aquesta app, l'institut podrà tenir un inventari digital de tot el material que té guardat (calculadores científiques, llibres de lectura, portàtils que l'escola ja no utilitza o que donen algunes empreses de L'Hospitalet). Els alumnes que ho necessitin podran demanar el préstec d'aquests materials de forma privada, fàcil i sense passar vergonya.
+* **Indicadors de mesura:** Comptarem el *nombre de materials i ordinadors que aconseguim deixar als alumnes* durant el curs i mirarem si *baixa el nombre de deures que es queden sense lliurar* per culpa de no tenir l'ordinador o el llibre a casa.
 
 ### ODS 10. Reducció de les desigualtats
-Hem escollit aquest ODS perquè pensem que la nota o el futur de l'alumnat no haurien de dependre dels diners que té la seva família. En ajudar a repartir millor els recursos a l'institut, fem que el Provenzana sigui un lloc més just i unit, on cap estudiant es quedi enrere o es senti exclòs.
-
-**Meta 10.2.** Per a l'any 2030, potenciar i promoure que tothom es senti inclòs socialment i econòmicament, sense importar la seva edat, origen, religió o situació econòmica.
-
-El projecte consistiria a utilitzar l'aplicació per crear una xarxa d'ajuda i economia circular dins de l'institut. La plataforma permetrà que els alumnes que canviïn de curs puguin donar els llibres o calculadores que ja no fan servir. Com que tot es gestionarà a través de l'aplicació de manera discreta, s'evita que ningú es senti assenyalat i s'aconsegueix que tots els estudiants estiguin connectats a lesax mateixes eines de l'institut.
-
-La seva contribució es podria mesurar comptant quants alumnes diferents fan servir la plataforma per demanar ajuda i veient el nombre de persones o empreses del barri que s'animen a donar material que ja no necessiten. D'aquesta manera, l'aplicació ajudaria a reduir la bretxa social i a avançar cap a la meta 10.2.
-
----
+* **Justificació de la selecció:** Hem escollit aquest ODS perquè pensem que la teva nota o el teu futur no haurien de dependre dels diners que té la teva família. En ajudar a repartir millor els recursos a l'institut, fem que el Provenzana sigui un lloc més just i unit, on cap estudiant es quedi enrere o es senti exclòs.
+* **Número i descripció de la meta concreta:** **Meta 10.2.** Per a l'any 2030, potenciar i promoure que tothom es senti inclòs socialment i econòmicament, sense importar la seva edat, origen, religió o situació econòmica.
+* **Explicació de com el futur projecte podria contribuir-hi:** Amb l'aplicació volem crear una xarxa d'ajuda i economia circular dins de l'institut. No es tracta només de demanar coses, sinó que els alumnes que canviïn de curs puguin donar els llibres o calculadores que ja no fan servir. Com que tot es gestionarà a través de la plataforma de manera discreta, evitem que ningú es senti assenyalat i aconseguim que tots els estudiants estiguin connectats a les mateixes eines de l'institut.
+* **Indicadors de mesura:** Ho mesurarem comptant *quants alumnes diferents fan servir la plataforma* per demanar ajuda i veient el *nombre de persones o empreses del barri que s'animen a donar material* que ja no necessiten.
 
 ## Fonts d'informació consultades
 
-1. **Institut d'Estadística de Catalunya (Idescat):**
-   * *Consulta:* Indicadors de pobresa i exclusió social (Taxa AROPE) a Catalunya.
-   * *Enllaç:* [idescat.cat](https://idescat.cat)
-   * *Utilitat:* S'ha fet servir per obtenir les dades oficials sobre el risc de pobresa que afecta 1 de cada 3 infants i joves a Catalunya, justificant la gravetat de la situació de recursos.
-
-2. **Nacions Unides (Plataforma de l'Agenda 2030):**
+1. **Nacions Unides (Plataforma de l'Agenda 2030):**
    * *Consulta:* Guia oficial dels Objectius de Desenvolupament Sostenible (ODS 4 i ODS 10).
    * *Enllaç:* [un.org/sustainabledevelopment](https://un.org)
-   * *Utilitat:* S'ha consultat per extreure exactament el número, el nom oficial i la descripció literal de les metes globals 4.5 i 10.2.
+   * *Utilitat:* S'ha fet servir per comprovar els noms oficials dels ODS i copiar exactament el número i la descripció literal de la **Meta 4.5** i la **Meta 10.2**.
+
+2. **Institut d'Estadística de Catalunya (Idescat):**
+   * *Consulta:* Enquesta de condicions de vida i Taxa de risc de pobresa o exclusió social (Taxa AROPE) en joves.
+   * *Enllaç:* [idescat.cat](https://idescat.cat)
+   * *Utilitat:* Ens ha servit per basar la nostra justificació en dades reals de Catalunya, on gairebé 1 de cada 3 menors d'edat es troba en situació de vulnerabilitat, demostrant que la manca de recursos per a l'estudi és un problema real.
 
 3. **Síndic de Greuges de Catalunya:**
-   * *Consulta:* Informe sobre la segregació escolar i la bretxa digital als centres educatius de l'àrea metropolitana de Barcelona.
+   * *Consulta:* Informes anuals sobre els drets de l'infant, l'equitat educativa i la bretxa digital als centres escolars.
    * *Enllaç:* [sindic.cat](https://sindic.cat)
-   * *Utilitat:* Ha servit per demostrar com la manca de material escolar i dispositius tecnològics afecta el dia a dia de l'alumnat vulnerable a l'aula.
+   * *Utilitat:* S'ha consultat per entendre com la manca d'ordinadors o materials a casa afecta directament el rendiment de l'alumnat i provoca desigualtats a l'hora de lliurar els deures.
 
 4. **Ajuntament de L'Hospitalet de Llobregat:**
-   * *Consulta:* Pla d'Acció Social i dades sociodemogràfiques del municipi.
+   * *Consulta:* Dades de cohesió social i ajuts a l'estudi als barris del municipi.
    * *Enllaç:* [l-h.cat](https://l-h.cat)
-   * *Utilitat:* S'ha consultat per conèixer el context econòmic real dels barris propers a l'Institut Provenzana.
+   * *Utilitat:* S'ha fet servir com a base per conèixer el context socioeconòmic del nostre entorn local a l'Institut  Provenzana.
