@@ -17,7 +17,7 @@
 Com podríem ajudar l'alumnat amb pocs recursos de cicles formatius a reduir o millorar la manca de mitjans tecnològics i l'impacte de la brossa electrònica en l'entorn de l'Institut Provençana?
 
 1. **En què consisteix el problema:**
-Molts alumnes no tenen suficients recursos econòmics per a comprar un ordinador, i això fa que molts acabin deixant els estudis per no poder seguir el ritme de les classes, sumat a més a tota la brossa electrònica que s'acumula.0
+Molts alumnes no tenen suficients recursos econòmics per a comprar un ordinador, i això fa que molts acabin deixant els estudis per no poder seguir el ritme de les classes, sumat a més a tota la brossa electrònica que s'acumula.
 
 2. **On es produeix:**
    Es produeix a l'institut, on hi ha residus que no s'aprofiten i que es podrien aprofitar perfectament perquè els alumnes no haguessin de deixar els estudis per falta de recursos.
