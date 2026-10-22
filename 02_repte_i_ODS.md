@@ -12,4 +12,4 @@
 | **Possibilitat d'actuació local** | 3 | 3 |
 | **Puntuació total** | **20 / 21** | **20 / 21** |
 
-> **Com podríem ajudar l'alumnat amb pocs recursos de cicles formatius a reduir o millorar la manca de mitjans tecnològics i l'impacte de la brossa electrònica en l'entorn de l'Institut Provençana?**
+**Com podríem ajudar l'alumnat amb pocs recursos de cicles formatius a reduir o millorar la manca de mitjans tecnològics i l'impacte de la brossa electrònica en l'entorn de l'Institut Provençana?**
