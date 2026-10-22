@@ -1,5 +1,4 @@
-
-## Definició del repte
+### Taula de comparació
 
 | Criteri | Necessitat Finalista 1 (Mitjans tecnològics) | Necessitat Finalista 2 (Cultura de reparació / E-Waste) |
 | :--- | :---: | :---: |
