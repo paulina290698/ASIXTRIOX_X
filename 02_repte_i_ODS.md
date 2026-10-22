@@ -1,3 +1,10 @@
+# Pràctica 2: Definició del Repte i Relació amb els ODS
+
+**Membres de l'equip i rols:**
+* **Beatriz Navarro:** Coordinador/a i Redacció de l'Anàlisi del problema.
+* **Paulina Febres:** Recerca de dades, evidències i fonts d'informació.
+* **Eamin Nawaz:** Desenvolupament de la relació amb els ODS i definició de metes.
+
 ### Taula de comparació
 
 | Criteri | Necessitat Finalista 1 (Mitjans tecnològics) | Necessitat Finalista 2 (Cultura de reparació / E-Waste) |
