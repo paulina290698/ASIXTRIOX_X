@@ -16,7 +16,5 @@
 
 Com podríem ajudar l'alumnat amb pocs recursos de cicles formatius a reduir o millorar la manca de mitjans tecnològics i l'impacte de la brossa electrònica en l'entorn de l'Institut Provençana?
 
-### A continuació, expliqueu:
-
 1. **En què consisteix el problema:**
    Hi ha una bretxa digital important perquè alguns estudiants no tenen suficients recursos econòmics per comprar un ordinador portàtil propi, la qual cosa es combina amb l'acumulació de residus electrònics (xatarra tecnològica) i la falta de cultura de reutilització d'equips.
