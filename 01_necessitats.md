@@ -101,7 +101,7 @@ Com a equip, aquesta pràctica ens ha servit per entendre que millorar el nostre
 
 * [EsadeEcPol - Radiografía del gasto de las familias en material escolar y las becas que ayudan a compensarlo](https://www.esade.edu/ecpol/es/publicaciones/radiografia-del-gasto-de-las-familias-en-material-escolar-y-las-becas-que-ayudan-a-compensarlo/)[cite: 2]
 * [Alianza Solidaria - El abandono escolar podría ser una opción](https://alianzasolidaria.org/el-abandono-escolar-podria-ser-una-opcion/)[cite: 1]
-* [Universidad de Sevilla - Información reduce residuos electrónicos](https://smantenimiento.us.es/uma/info_ reduce_residuo_electronicos_.php)[cite: 2]
+* [Universidad de Sevilla - Información reduce residuos electrónicos](https://smantenimiento.us.es/uma/info__reduce_residuos_electronicos_.php)[cite: 2]
 * [ICP Tech Solutions - Economía circular: Nueva vida para tus dispositivos](https://icptechsolutions.es/economia-circular-nueva-vida-para-tus-dispositivos/)[cite: 3]
 * [Innovación Digital 360 - Green Computing: Qué es, ejemplos y objetivos](https://www.innovaciondigital360.com/industria-4-0/green-computing-que-es-ejemplos-y-objetivos/)[cite: 4]
 
