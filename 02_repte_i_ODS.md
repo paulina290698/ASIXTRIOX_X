@@ -32,7 +32,7 @@ Molts alumnes no tenen suficients recursos econòmics per a comprar un ordinador
    Principalment als alumnes que volen estudiar i no poden per falta de recursos.
 
 4. **Quines evidències demostren que existeix:**
-   Ho sabem per estudis i fonts d'investigació prèvies (com informes d'entitats sobre l'impacte de  la bretxa digital en l'abandonament escolar i articles d'economia circular)[[cite: 2](https://www.unicef.es/educa/blog/covid-19-brecha-educativa) que vam consultar a l'inici del projecte.
+   Ho sabem per estudis i fonts d'investigació prèvies (com informes d'entitats sobre l'impacte de  la bretxa digital en l'abandonament escolar i articles d'economia circular)[[cite: 2]](https://www.unicef.es/educa/blog/covid-19-brecha-educativa) que vam consultar a l'inici del projecte.
 
 5. **Per què és important actuar-hi:**
  És important perquè així podem reduir l'abandonament escolar i aconseguir un bon aprofitament del material evitant generar tant de residu electrònic (E-Waste).
