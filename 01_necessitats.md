@@ -100,7 +100,7 @@ Com a equip, aquesta pràctica ens ha servit per entendre que millorar el nostre
 ## Fonts
 
 * [EsadeEcPol - Radiografía del gasto de las familias en material escolar y las becas que ayudan a compensarlo](https://www.esade.edu/ecpol/es/publicaciones/radiografia-del-gasto-de-las-familias-en-material-escolar-y-las-becas-que-ayudan-a-compensarlo/)[cite: 1]
-* [Alianza Solidaria - El abandono escolar podría ser una opción](https://alianzasolidaria.org/el-abandono-escolar-podria-ser-una-opcion/)[cite: 2]
+* [UNICEF - Brecha educativa y COVID-19](https://www.unicef.es/educa/blog/covid-19-brecha-educativa)[cite: 2]
 * [Universidad de Sevilla - Información reduce residuos electrónicos](https://smantenimiento.us.es/uma/info__reduce_residuos_electronicos_.php)[cite: 3]
 * [ICP Tech Solutions - Economía circular: Nueva vida para tus dispositivos](https://icptechsolutions.es/economia-circular-nueva-vida-para-tus-dispositivos/)[cite: 4]
 * [Innovación Digital 360 - Green Computing: Qué es, ejemplos y objetivos](https://www.innovaciondigital360.com/industria-4-0/green-computing-que-es-ejemplos-y-objetivos/)[cite: 5]
