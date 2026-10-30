@@ -30,6 +30,7 @@ Somos un equipo que trabaja en el proyecto «Sostenibilidad aplicada al sistema 
 Lo más urgente es encontrar una forma rápida de ayudar a los estudiantes que carecen de recursos para que puedan disponer de un ordenador y estudiar bien desde el primer día y, al mismo tiempo, aprender a reparar dispositivos antiguos para evitar generar tantos residuos electrónicos y dañar el medio ambiente.
 
 Estas dos cosas van de la mano porque, en un curso de Diploma Superior como el nuestro, el ordenador es la herramienta que se utiliza para todo: para programar, crear diseños, redactar informes o entregar los trabajos a tiempo. Si un estudiante comienza sus estudios y no dispone de un ordenador en casa o en la universidad, no puede seguir el ritmo de las clases, se frustra, tiene dificultades y acaba abandonando los estudios, perdiendo así la oportunidad de encontrar un buen trabajo debido a un problema económico. Pero la solución no puede consistir en comprar siempre portátiles nuevos que consumen mucha energía y contaminan. Lo más lógico y urgente es recoger, reparar y reutilizar los ordenadores que las personas o las empresas ya no quieren: de esta forma ayudamos a nuestros compañeros que los necesitan y evitamos llenar los almacenes de chatarra tecnológica.
+
 ---
 
 ### 2. ¿Cuáles afectan a un mayor número de personas?
