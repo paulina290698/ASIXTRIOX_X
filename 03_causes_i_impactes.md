@@ -20,3 +20,20 @@
 * **Limitaciones presupuestarias** familiares derivadas de situaciones de vulnerabilidad socioeconómica.
 * **Ausencia de planes institucionales** de soporte técnico continuo y formación dirigidos a maximizar la vida útil del material del centro.
 
+
+### Conseqüències
+
+#### Ambiental
+* **Contaminació per brossa electrònica (e-waste):** El consumisme tecnològic i la manca de circuits de reutilització fan que es llencin aparells obsolets que contenen materials pesants i tòxics (com plom, mercuri o cadmi).
+
+#### Social
+* **Abandonament escolar:** L'alumne es despenja de les classes, perd la motivació i acaba deixant els estudis en no poder lliurar els treballs ni seguir el ritme de l'aula. 
+
+* **Frustració i baixa autoestima:** Els alumnes pateixen estrès i sentiment d'inferioritat en veure que no poden participar en la mateixa igualtat de condicions que els seus companys.
+
+### Econòmic
+* **Falta de talent digital per a les empreses:** Les empreses perden treballadors preparats en un mercat cada vegada més tecnològic. Això frena la innovació i fa que l'economia del país sigui menys competitiva a nivell internacional. 
+
+
+
+
