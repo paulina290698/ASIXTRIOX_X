@@ -21,18 +21,18 @@
 * **Ausencia de planes institucionales** de soporte técnico continuo y formación dirigidos a maximizar la vida útil del material del centro.
 
 
-### Conseqüències
+### Consecuencias
 
 #### Ambiental
-* **Contaminació per brossa electrònica (e-waste):** El consumisme tecnològic i la manca de circuits de reutilització fan que es llencin aparells obsolets que contenen materials pesants i tòxics (com plom, mercuri o cadmi).
+* **Contaminación por basura electrónica (e-waste):** El consumismo tecnológico y la falta de circuitos de reutilización hacen que se tiren aparatos obsoletos que contienen materiales pesados ​​y tóxicos (como plomo, mercurio o cadmio).
 
 #### Social
-* **Abandonament escolar:** L'alumne es despenja de les classes, perd la motivació i acaba deixant els estudis en no poder lliurar els treballs ni seguir el ritme de l'aula. 
+* **Abandonamiento escolar:** El alumno se descuelga de las clases, pierde la motivación y acaba dejando los estudios al no poder entregar los trabajos ni seguir el ritmo del aula. 
 
-* **Frustració i baixa autoestima:** Els alumnes pateixen estrès i sentiment d'inferioritat en veure que no poden participar en la mateixa igualtat de condicions que els seus companys.
+* **Frustración y baja autoestima:** Los alumnos sufren estrés y sentimiento de inferioridad al ver que no pueden participar en la misma igualdad de condiciones que sus compañeros.
 
-#### Econòmic
-* **Falta de talent digital per a les empreses:** Les empreses perden treballadors preparats en un mercat cada vegada més tecnològic. Això frena la innovació i fa que l'economia del país sigui menys competitiva a nivell internacional. 
+#### Económico
+* **Falta de talento digital para las empresas:** Las empresas pierden trabajadores preparados en un mercado cada vez más tecnológico. Esto frena la innovación y hace que la economía del país sea menos competitiva a nivel internacional.
 
 
 
