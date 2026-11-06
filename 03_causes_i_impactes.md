@@ -31,7 +31,7 @@
 
 * **Frustració i baixa autoestima:** Els alumnes pateixen estrès i sentiment d'inferioritat en veure que no poden participar en la mateixa igualtat de condicions que els seus companys.
 
-### Econòmic
+#### Econòmic
 * **Falta de talent digital per a les empreses:** Les empreses perden treballadors preparats en un mercat cada vegada més tecnològic. Això frena la innovació i fa que l'economia del país sigui menys competitiva a nivell internacional. 
 
 
