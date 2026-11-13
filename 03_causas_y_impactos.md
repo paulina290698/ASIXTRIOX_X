@@ -1,4 +1,4 @@
-# Practica 4: Actividad 1.4.> Causas, impactos i vulnerabilidad.
+# Practica 4: Actividad 1.4.> Causas, impactos y vulnerabilidad.
 **Miembros del equip y roles:**
 * **Beatriz Navarro:** Arbol de problemas del proyecto( Grupal ).
 * **Paulina Febres:** Problema central el tronco, Causas.
