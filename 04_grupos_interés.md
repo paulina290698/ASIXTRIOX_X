@@ -1,9 +1,11 @@
-# Activitat 1.6: Análisis de los grupos de interés y alianzas
+# Actividad 1.6: Análisis de los grupos de interés y alianzas
 
 ## 1. Miembros participantes y roles
 
-* **Beatriz Navarro:** Coordinación del mapa de influéncia i afectación (matriz) y revisión final del documento Markdown.
 * **Paulina Febres:** Identificación, classificación de los grupos de interés y elaboración de la tabla de análisis.
+
+* **Beatriz Navarro:** Coordinación del mapa de influéncia i afectación (matriz) y revisión final del documento Markdown.
+
 * **Eamin Nawaz:** Selección de los tres grupos más relevantes, justificación y propuesta de alianzas estratégicas.
 
 ## 2. Definición y clasificación de los grupos de interés
@@ -19,7 +21,7 @@
 ### Grupos de interés externos (no forman parte del centro, pero influyen en él y pueden causar algún impacto).
 5. **Familias y asociación de familias (AFA):** Son el entorno directo del alumnado y quienes sufren las limitaciones económicas para comprar dispositivos o pagar internet en casa.
 6. **Administración educativa y local (Departamento de Educación y Ayuntamiento):** Son las instituciones públicas que regulan, financian y pueden brindar los medios para la infraestructura digital a los centros educativos.
-7. **Empreses tecnológicas locales:** Son empresas del sector TIC que buscan futuros trabajadores con talento digital y que renovan periódicamente sus equipos informáticos.
+7. **Empresas tecnológicas locales:** Son empresas del sector TIC que buscan futuros trabajadores con talento digital y que renovan periódicamente sus equipos informáticos.
 8. **Entidades de reciclaje y reutilización tecnológica:** Son organizaciones externas dedicadas a reacondicionar ordenadores obsoletos y a gestionar los residuos electrónicos de forma sostenible.
 
 
