@@ -1,6 +1,6 @@
 # Actividad 1.6: Análisis de los grupos de interés y alianzas
 
-## 1. Miembros participantes y roles
+## Miembros participantes y roles
 
 * **Paulina Febres:** Identificación, classificación de los grupos de interés y elaboración de la tabla de análisis.
 
@@ -8,7 +8,7 @@
 
 * **Eamin Nawaz:** Selección de los tres grupos más relevantes, justificación y propuesta de alianzas estratégicas.
 
-## 2. Definición y clasificación de los grupos de interés
+## 1. Definición y clasificación de los grupos de interés
 
 **Organización base del proyecto:** El centro educativo (instituto).
 
@@ -25,16 +25,22 @@
 8. **Entidades de reciclaje y reutilización tecnológica:** Son organizaciones externas dedicadas a reacondicionar ordenadores obsoletos y a gestionar los residuos electrónicos de forma sostenible.
 
 
-## 3. Tabla de análisis de los grupos de interés
+## 2. Tabla de análisis de los grupos de interés
 
 
-## 4. Mapa de influéncia y afectación 
+| Grupo de interés | Interno / Externo | ¿Cómo le afecta el problema? | ¿Qué necesita o espera? | Grado de afectación | Influencia | Papel en la solución |
+| :--- | :---: | :--- | :--- | :---: | :---: | :--- |
+| **Alumnos del centro** | Interno | Sufren las consecuencias directamente en su día a día. Al no tener ordenador o internet en casa pierden el ritmo de clase, se frustran y muchos acaban dejando los estudios, o repitiendo el ciclo. | Poder usar un ordenador que esté en óptimas condiciones sin depender de su dinero, tener conexión estable y aprender a manejar las herramientas para formarse adecuadamente. | **Alto** | **Baja** | Probar los equipos arreglados, participar en los talleres prácticos para ganar soltura digital y avisar de qué fallos ven. |
+| **Administración educativa y local** | Externo | Tiene que gestionar los efectos del abandono escolar y basura electrónica de esta manera puede obtener un beneficio si se resuelve. | Cumplimiento de normas ambientales, reducción de costos públicos e información para bajar el fracaso escolar. | **Medio** | **Alta** | Financiar el proyecto, aportar información local, establecer normas de apoyo y coordinar participantes. |
 
 
-## 5. Selección y justificación de los tres grupos más relevantes 
+## 3. Mapa de influéncia y afectación 
 
 
-## 6. Propuesta de dos alianzas
+## 4. Selección y justificación de los tres grupos más relevantes 
+
+
+## 5. Propuesta de dos alianzas
 
 
 ## 7. Las fuentes de información consultadas
