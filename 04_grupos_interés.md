@@ -35,7 +35,7 @@
 
 
 ## 3. Mapa de influéncia y afectación 
-<img width="2524" height="1664" alt="Gemini_Generated_Image_hs3qo3hs3qo3hs3q" src="https://github.com/user-attachments/assets/eb744f24-90d0-49ab-a4ae-3c8603e05da3" />
+![Matriu d'influència i afectació](https://github.com/user-attachments/assets/eb744f24-90d0-49ab-a4ae-3c8603e05da3)
 
 
 ## 4. Selección y justificación de los tres grupos más relevantes 
