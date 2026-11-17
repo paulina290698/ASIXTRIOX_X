@@ -35,8 +35,24 @@
 
 
 ## 3. Mapa de influéncia y afectación 
-<img src="https://github.com/user-attachments/assets/eb744f24-90d0-49ab-a4ae-3c8603e05da3" alt="Matriu d'influència i afectació" width="550" />
-
+```mermaid
+quadrantChart
+    title Matriu d'influència i afectació
+    x-axis Baix --> Alt (Grau d'influència)
+    y-axis Baix --> Alt (Grau d'afectació)
+    quadrant-1 Gestió estreta
+    quadrant-2 Mantenir informats
+    quadrant-3 Monitoritzar
+    quadrant-4 Mantenir satisfets
+    Alumnes del centre: [0.18, 0.78]
+    Families amb pocs recursos: [0.38, 0.78]
+    Equip directiu del centre: [0.62, 0.78]
+    Professorat i dept. informatica: [0.85, 0.78]
+    Administracio educativa i local: [0.75, 0.58]
+    Associacions de veins i entitats: [0.18, 0.25]
+    Gestors de residus electronics: [0.38, 0.25]
+    Empreses tecnologiques donants: [0.75, 0.25]
+```
 
 ## 4. Selección y justificación de los tres grupos más relevantes 
 
