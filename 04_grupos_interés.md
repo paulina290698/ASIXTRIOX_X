@@ -35,7 +35,8 @@
 
 
 ## 3. Mapa de influéncia y afectación 
-<img src="AQUI_APARECERA_TU_NUEVO_ENLACE" alt="Matriu d'influència i afectació" width="600" />
+<img src="https://github.com/user-attachments/assets/95f80c01-914a-48be-9c12-de64f2fe1cdd" alt="Matriu d'influència i afectació" width="600" />
+
 
 ## 4. Selección y justificación de los tres grupos más relevantes 
 
