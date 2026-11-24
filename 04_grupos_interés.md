@@ -40,7 +40,10 @@
 
 
 ## 4. Selección y justificación de los tres grupos más relevantes 
+Los tres grupos de interés más relevantes son el profesorado, el equipo directivo del centro y la administración educativa y local. 
 
+**a) Cómo le afecta el problema**
+**- Profesorado:** son los que más cerca están de los alumnos y ven 
 
 ## 5. Propuesta de dos alianzas
 
