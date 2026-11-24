@@ -13,9 +13,9 @@
 **Organización base del proyecto:** El centro educativo (instituto).
 
 ### Grupos de interés internos (forman parte del centro educativo).
-1. **Alumnos del centro:** Son los que usan de manera directa los equipos tecnológicos y los que sufren las dificultades para seguir el ritmo de las clases por falta de recursos o de competencias digitales.
+1. **Alumnos del centro:** Son los que usan de forma directa los equipos tecnológicos y los que sufren las dificultades para seguir el ritmo de las clases por falta de recursos o de competéncias digitales.
 2. **Equipo directivo:** Son los encargados de gestionar el presupuesto, autorizar la implementación del proyecto y tomar decisiones estratégicas en el instituto.
-3. **Profesores y tutores:** Son los docentes que imparten las clases y detectan que alumnos no siguen el ritmo de clase.
+3. **Profesores y tutores:** Son los docentes que imparten las clases y detectan qué alumnos no siguen el ritmo de clase.
 4. **Coordinación TIC y soporte técnico interno:** Es el personal del centro encargado del mantenimiento, la configuración, el inventario de los ordenadores y las redes.
 
 ### Grupos de interés externos (no forman parte del centro, pero influyen en él y pueden causar algún impacto).
