@@ -67,13 +67,13 @@ Los tres grupos de interés más relevantes son el profesorado, el equipo direct
 
 **e) Cómo deberían de participar en el proyecto**
 **- Profesorado:** Reuniendo con los alumnos para que compartan sus problemas.
- **Departamento de informática:** Encargándose del reacondicionamiento y la configuración técnica de los ordenadores. Además de solucionar cualquier problema que ocurra durante el uso diario de los equipos. 
+**- Departamento de informática:** Encargándose del reacondicionamiento y la configuración técnica de los ordenadores. Además de solucionar cualquier problema que ocurra durante el uso diario de los equipos. 
 **- Equipo directivo:** Participar en proyectos que ayudan a mejorar la situación.
 **- Administración educativa y local:** Financiar el material y ofrecer medios para la infraestructura digital en los institutos. 
 
 
 ## 5. Propuesta de dos alianzas
-**Alianza 1: Professorado y departamento de informática + Gestores de residuos electrónicos**
+### **Alianza 1: Professorado y departamento de informática + Gestores de residuos electrónicos**
 
 * **Los grupos que participan:** El profesorado  y departamento de informática del centro, junto con los gestores residuos digitales en casa.
 * **El objetivo de la colaboración:** Poner a punto y arreglar ordenadores viejos para dárselos a los alumnos del instituto que no tienen recursos digitales en casa.
@@ -84,7 +84,7 @@ Los tres grupos de interés más relevantes son el profesorado, el equipo direct
 * **Qué dificultad podría aparecer:** Que los ordenadores sean tan viejos que los programas que piden los profesores no funcionen bien en ellos.
 * **Cómo se podría iniciar la colaboración:** Organizando una reunión entre los informáticos del instituto y la empresa de reciclaje para acordar cómo se entregarán los equipos.
 
-**Alianza 2: Equipo directivo del centro + Administración educativa y local**
+### **Alianza 2: Equipo directivo del centro + Administración educativa y local**
 * **Los grupos que participan:**  El equipo directivo del instituto y la administración educativa y local.
 * **El objetivo de la colaboración:** Conseguir dinero y apoyo oficial para mejorar el internet y los equipos digitales del centro.
 * **Qué aportaria cada participante:**
