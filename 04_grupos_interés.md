@@ -49,29 +49,25 @@ Los tres grupos de interés más relevantes son el profesorado, el equipo direct
 
 **- Profesorado:** Son los que más cerca están de los alumnos y ven qué problemas tienen. Pueden hablar con los alumnos y crear una confianza con ellos, ayudando a que compartan sus problemas. <br>
 **- Equipo directivo:** Es el responsable de la gestión del centro, la falta de recursos tesnológicos afectan directamente los objetivos pedagógicos y de calidad del centro. <br>
-**- Administración educativa y local:** Deben velar por la igualdad de oportunidades educativas, reducir las tasas del abandono escolar y cumplir con las normativas de gestión sostenible de residuos electrónicos. 
-
+**- Administración educativa y local:** Deben velar por la igualdad de oportunidades educativas, reducir las tasas del abandono escolar y cumplir con las normativas de gestión sostenible de residuos electrónicos. <br><br>
 
 **b) Qué necesidades o expectativas tienen**
 
 **- Profesorado y departamento de informática:** Esperan disponer de recursos suficientes, reducir la brecha digital en el aula y contar con herramientas de soporte técnico eficaces. <br>
 **- Equipo directivo:** Necesitan soluciones viables y bien financiadas para ayudar a todos, o el mayor porcentaje del alumnado, en conseguir material adecuado y necesario. <br>
-**- Administración educativa y local:** Cumplimiento de las normas ambientales y bajar el fracaso escolar. 
-
+**- Administración educativa y local:** Cumplimiento de las normas ambientales y bajar el fracaso escolar. <br><br>
 
 **c) Qué grado de influencia presentan**
 
 **- Profesorado y departamento de informática:** Alta (en la aplicación del proyecto y el mantenimiento de los equipos). <br>
 **- Equipo directivo:** Alta (toman decisiones estratégicas y organizativas en el centro). <br>
-**- Administración educativa y local:** Alta (capacidad de financiación, legislación y poder normativo).
-
+**- Administración educativa y local:** Alta (capacidad de financiación, legislación y poder normativo).<br><br>
 
 **d) Porqué es importante tenerlo en cuenta**
 
 **- Profesorado y departamento de informática:** Porque son como el puente directo con los estudiantes y sin su implicación, detección de necesidades y participación activa, el proyecto no puede aplicarse con éxito en las aulas. <br>
 **- Equipo directivo:** Porque son los que controlan la organización interna y la autorización formal para que el proyecto pueda llevarse a cabo en el centro. <br>
-**- Administración educativa y local:** Porque aportan la factibilidad económica para que el proyecto pueda llevarse a cabo en el centro. 
-
+**- Administración educativa y local:** Porque aportan la factibilidad económica para que el proyecto pueda llevarse a cabo en el centro. <br><br>
 
 **e) Cómo deberían de participar en el proyecto**
 
