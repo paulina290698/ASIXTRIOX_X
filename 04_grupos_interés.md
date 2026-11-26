@@ -46,9 +46,35 @@
 Los tres grupos de interés más relevantes son el profesorado, el equipo directivo del centro y la administración educativa y local. 
 
 **a) Cómo le afecta el problema**
-**- Profesorado:** son los que más cerca están de los alumnos y ven 
+**- Profesorado:** Son los que más cerca están de los alumnos y ven qué problemas tienen. Pueden hablar con los alumnos y crear una confianza con ellos, ayudando a que compartan sus problemas.
+**- Equipo directivo:** Es el responsable de la gestión del centro, la falta de recursos tesnológicos afectan directamente los objetivos pedagógicos y de calidad del centro. 
+**- Administración educativa y local:** Deben velar por la igualdad de oportunidades educativas, reducir las tasas del abandono escolar y cumplir con las normativas de gestión sostenible de residuos electrónicos. 
+
+**b) Qué necesidades o expectativas tienen**
+**- Profesorado:** Esperan disponer de recursos suficientes y reducir la brecha digital en el aula. 
+**- Equipo directivo:** Necesitan soluciones viables y bien financiadas para ayudar a todos, o el mayor porcentaje del alumnado, en conseguir material adecuado y necesario. 
+**- Administración educativa y local:** Cumplimiento de las normas ambientales y bajar el fracaso escolar. 
+
+**c) Qué grado de influencia presentan**
+**- Profesorado:** Alta (en el seguimiento diario de los alumnos y la aplicación del proyecto en clase).
+**- Equipo directivo:** Alta (toman decisiones estratégicas y organizativas en el centro).
+**- Administración educativa y local:** Alta (capacidad de financiación, legislación y poder normativo).
+
+**d) Porqué es importante tenerlo en cuenta**
+**- Profesorado:** Porque són como el puente directo con los estudiantes y sin su implicación y detección de necesidades, el proyecto no puede aplicarse con éxito en las aulas. 
+**- Equipo directivo:** Porque son los que controlan la organización interna y la autorización formal para que el proyecto pueda llevarse a cabo en el centro.
+**- Administración educativa y local:** Porque aportan la factibilidad económica para que el proyecto pueda llevarse a cabo en el centro. 
+
+**e) Cómo deberían de participar en el proyecto**
+**- Profesorado:** Reuniendo con los alumnos para que compartan sus problemas.
+**- Equipo directivo:** Participar en proyectos que ayudan a mejorar la situación.
+**- Administración educativa y local:** Financiar el material y ofrecer medios para la infraestructura digital en los institutos. 
+
 
 ## 5. Propuesta de dos alianzas
+**Alianza 1: Coordinación TIC y soporte técnico interno + Entidades de reciclaje i reutilización tecnológica**
+* **Los grupos que participan:** El personal de coordinación TIC del centro y a sentidades de reciclaje y reutilización técnica.
+
 
 
 ## 7. Las fuentes de información consultadas
