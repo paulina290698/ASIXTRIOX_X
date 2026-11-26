@@ -45,30 +45,39 @@
 ## 4. Selección y justificación de los tres grupos más relevantes 
 Los tres grupos de interés más relevantes son el profesorado, el equipo directivo del centro y la administración educativa y local. 
 
-**a) Cómo le afecta el problema**
-**- Profesorado:** Son los que más cerca están de los alumnos y ven qué problemas tienen. Pueden hablar con los alumnos y crear una confianza con ellos, ayudando a que compartan sus problemas.
-**- Equipo directivo:** Es el responsable de la gestión del centro, la falta de recursos tesnológicos afectan directamente los objetivos pedagógicos y de calidad del centro. 
+**a) Cómo le afecta el problema** 
+
+**- Profesorado:** Son los que más cerca están de los alumnos y ven qué problemas tienen. Pueden hablar con los alumnos y crear una confianza con ellos, ayudando a que compartan sus problemas. <br>
+**- Equipo directivo:** Es el responsable de la gestión del centro, la falta de recursos tesnológicos afectan directamente los objetivos pedagógicos y de calidad del centro. <br>
 **- Administración educativa y local:** Deben velar por la igualdad de oportunidades educativas, reducir las tasas del abandono escolar y cumplir con las normativas de gestión sostenible de residuos electrónicos. 
 
+
 **b) Qué necesidades o expectativas tienen**
-**- Profesorado y departamento de informática:** Esperan disponer de recursos suficientes, reducir la brecha digital en el aula y contar con herramientas de soporte técnico eficaces. 
-**- Equipo directivo:** Necesitan soluciones viables y bien financiadas para ayudar a todos, o el mayor porcentaje del alumnado, en conseguir material adecuado y necesario. 
+
+**- Profesorado y departamento de informática:** Esperan disponer de recursos suficientes, reducir la brecha digital en el aula y contar con herramientas de soporte técnico eficaces. <br>
+**- Equipo directivo:** Necesitan soluciones viables y bien financiadas para ayudar a todos, o el mayor porcentaje del alumnado, en conseguir material adecuado y necesario. <br>
 **- Administración educativa y local:** Cumplimiento de las normas ambientales y bajar el fracaso escolar. 
 
+
 **c) Qué grado de influencia presentan**
-**- Profesorado y departamento de informática:** Alta (en la aplicación del proyecto y el mantenimiento de los equipos).
-**- Equipo directivo:** Alta (toman decisiones estratégicas y organizativas en el centro).
+
+**- Profesorado y departamento de informática:** Alta (en la aplicación del proyecto y el mantenimiento de los equipos). <br>
+**- Equipo directivo:** Alta (toman decisiones estratégicas y organizativas en el centro). <br>
 **- Administración educativa y local:** Alta (capacidad de financiación, legislación y poder normativo).
 
+
 **d) Porqué es importante tenerlo en cuenta**
-**- Profesorado y departamento de informática:** Porque son como el puente directo con los estudiantes y sin su implicación, detección de necesidades y participación activa, el proyecto no puede aplicarse con éxito en las aulas. 
-**- Equipo directivo:** Porque son los que controlan la organización interna y la autorización formal para que el proyecto pueda llevarse a cabo en el centro.
+
+**- Profesorado y departamento de informática:** Porque son como el puente directo con los estudiantes y sin su implicación, detección de necesidades y participación activa, el proyecto no puede aplicarse con éxito en las aulas. <br>
+**- Equipo directivo:** Porque son los que controlan la organización interna y la autorización formal para que el proyecto pueda llevarse a cabo en el centro. <br>
 **- Administración educativa y local:** Porque aportan la factibilidad económica para que el proyecto pueda llevarse a cabo en el centro. 
 
+
 **e) Cómo deberían de participar en el proyecto**
-**- Profesorado:** Reuniendo con los alumnos para que compartan sus problemas.
-**- Departamento de informática:** Encargándose del reacondicionamiento y la configuración técnica de los ordenadores. Además de solucionar cualquier problema que ocurra durante el uso diario de los equipos. 
-**- Equipo directivo:** Participar en proyectos que ayudan a mejorar la situación.
+
+**- Profesorado:** Reuniendo con los alumnos para que compartan sus problemas. <br>
+**- Departamento de informática:** Encargándose del reacondicionamiento y la configuración técnica de los ordenadores. Además de solucionar cualquier problema que ocurra durante el uso diario de los equipos. <br>
+**- Equipo directivo:** Participar en proyectos que ayudan a mejorar la situación. <br>
 **- Administración educativa y local:** Financiar el material y ofrecer medios para la infraestructura digital en los institutos. 
 
 
@@ -77,18 +86,18 @@ Los tres grupos de interés más relevantes son el profesorado, el equipo direct
 
 * **Los grupos que participan:** El profesorado  y departamento de informática del centro, junto con los gestores residuos digitales en casa.
 * **El objetivo de la colaboración:** Poner a punto y arreglar ordenadores viejos para dárselos a los alumnos del instituto que no tienen recursos digitales en casa.
-* **Qué aportaria cada participante:**
-  **- Profesorado y departamento de informática:** El departamento técnico se encargaría de revisar, limpiar, configurar los ordenadores y solucionar las averías del día a día, mientras que los profesores detectarían a los alumnos que más lo necesitan y harían el seguimiento.
+* **Qué aportaria cada participante:** <br>
+  **- Profesorado y departamento de informática:** El departamento técnico se encargaría de revisar, limpiar, configurar los ordenadores y solucionar las averías del día a día, mientras que los profesores detectarían a los alumnos que más lo necesitan y harían el seguimiento. <br>
   **- Gestores de residuos electrónicos:** Aportarían los ordenadores antiguos ya limpios y reparados físicamente.
-* **Qué beneficio obtendría el proyecto:** Conseguir ordenadores para los alumnos de forma barata, ecológica y con ayuda técnica profesional.
+* **Qué beneficio obtendría el proyecto:** Conseguir ordenadores para los alumnos de forma barata, ecológica y con ayuda técnica profesional. 
 * **Qué dificultad podría aparecer:** Que los ordenadores sean tan viejos que los programas que piden los profesores no funcionen bien en ellos.
 * **Cómo se podría iniciar la colaboración:** Organizando una reunión entre los informáticos del instituto y la empresa de reciclaje para acordar cómo se entregarán los equipos.
 
 ### **Alianza 2: Equipo directivo del centro + Administración educativa y local**
 * **Los grupos que participan:**  El equipo directivo del instituto y la administración educativa y local.
 * **El objetivo de la colaboración:** Conseguir dinero y apoyo oficial para mejorar el internet y los equipos digitales del centro.
-* **Qué aportaria cada participante:**
-  **- Equipo directivo del centro:** Presentar el proyecto, explicar los problemas reales de los alumnos y organizar cómo se usará todo en el instituto. 
+* **Qué aportaria cada participante:** <br>
+  **- Equipo directivo del centro:** Presentar el proyecto, explicar los problemas reales de los alumnos y organizar cómo se usará todo en el instituto. <br>
   **- Administración educativa y local:** Aportar recursos económicos, material tecnológico, mejores conexiones a red y asesoramiento técnico.
 * **Qué beneficio obtendría el proyecto:** Tener recursos seguros y apoyo oficial para que ningún alumno se quede sin medios digitales.
 * **Qué dificultad podría aparecer:** Que los trámites de la administración sean muy lentos y tarde mucho tiempo en llegar el dinero o los permisos.
