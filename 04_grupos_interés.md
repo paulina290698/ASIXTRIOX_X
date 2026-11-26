@@ -35,7 +35,7 @@
 
 
 ## 3. Mapa de influéncia y afectación 
-<img width="1760" height="2420" alt="Gemini_Generated_Image_87xg0c87xg0c87xg" src="https://github.com/user-attachments/assets/f1c25bf9-1cd6-4a80-ae60-069b636aa886" />
+<img width="760" height="420" alt="Gemini_Generated_Image_87xg0c87xg0c87xg" src="https://github.com/user-attachments/assets/f1c25bf9-1cd6-4a80-ae60-069b636aa886" />
 
 
 
